@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<filmoteka>
+    <film>
+        <id>3</id>
+        <title>"The Great Gatsby"</title>
+        <year>2013</year>
+        <genre>Drama</genre>
+    </film>
+    <film>
+        <id>2</id>
+        <title>"Pulp Fiction"</title>
+        <year>1994</year>
+        <genre>Thriller</genre>
+    </film>
+    <film>
+        <id>1</id>
+        <title>"Harry Potter and the Sorcerer's Stone"</title>
+        <year>2001</year>
+        <genre>Family_movie</genre>
+    </film>
+</filmoteka>

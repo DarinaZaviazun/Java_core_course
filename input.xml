@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<films xmlns:films="http://epam.com/practice7"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://epam.com/practice7 input.xsd">
+    <films:film>
+        <films:id>1</films:id>
+        <films:title>"Harry Potter and the Sorcerer's Stone"</films:title>
+        <films:year>2001</films:year>
+        <films:genre>Family_movie</films:genre>
+    </films:film>
+    <films:film>
+        <films:id>2</films:id>
+        <films:title>"Pulp Fiction"</films:title>
+        <films:year>1994</films:year>
+        <films:genre>Thriller</films:genre>
+    </films:film>
+    <films:film>
+        <films:id>3</films:id>
+        <films:title>"The Great Gatsby"</films:title>
+        <films:year>2013</films:year>
+        <films:genre>Drama</films:genre>
+    </films:film>
+</films>
